@@ -6,8 +6,10 @@ DataBite is a workshop made for students, by students. Beyond students, our targ
 
 ### Instructions
 For this workshop we will be using Google Colab and Linux based systems (Ubuntu, Mac OS). To install this repo using Google Colab's ipython notebook:
+
 (1) Open new notebook and Setup enviroment. Insert these lines:
-! git config --global user.email "#email"
+
+! git config --global user.email "#email" 
 ! git config --global user.name "#username"
 
 (2) Clone repo using this line:
