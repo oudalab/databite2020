@@ -32,7 +32,7 @@ The presentation for this tutorial includes detail information of text classific
 
 ### Before you begin, feel free to complete a Pre-knowledge Survey: https://ousurvey.qualtrics.com/jfe/form/SV_bsmwcDdK24VneEB
 
-Please find the presentation [here](tutorial1_textAnalysis)
+Please find the presentation [here](tutorial1_textAnalysis.pdf)
 
 The demo for text classification is [here](TextClassification_workflow.ipynb)
 
