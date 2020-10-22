@@ -13,7 +13,7 @@ For this workshop we will be using Google Colab and Linux based systems (Ubuntu,
 ! git config --global user.name "#username"
 
 (2) Clone repo using this line:
-! git clone https://github.com/oudalab/databitesp2020.git
+! git clone https://github.com/oudalab/databite2020.git
 
 Please note, in ipython notebooks the "!" must stay at the beginning of all installation commands.
 
