@@ -33,7 +33,9 @@ The presentation for this tutorial includes detail information of text classific
 ### Before you begin, feel free to complete a Pre-knowledge Survey: https://ousurvey.qualtrics.com/jfe/form/SV_bsmwcDdK24VneEB
 
 Please find the presentation [here](tutorial1_textAnalysis)
+
 The demo for text classification is [here](TextClassification_workflow.ipynb)
+
 The demo for sentiment analysis is [here](IMDB_SentimentAnalysis_LSTMs.ipynb)
 
 ### After you complete this tutorial, feel free to complete a Post-knowledge Survey: https://ousurvey.qualtrics.com/jfe/form/SV_0On07oFsn378Kzz
