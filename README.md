@@ -1,4 +1,4 @@
-# Databite Workshop - Spring 2020
+# Databite Workshop - Fall/Spring 2020
 tutorials, slides, and excercises
 
 ### Overview:
