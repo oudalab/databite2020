@@ -1,4 +1,4 @@
-## Tutorial 3: Text Analytics
+## Tutorial 3: Text Analysis
 Prepared by: Keerti Banweer
 
 Textual data is unstructured and complex. Extracting meaniningful patterns and insigths from it cannot be achieved by directly using mathematical or statistical models. 
