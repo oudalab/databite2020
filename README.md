@@ -9,20 +9,33 @@ For this workshop we will be using Google Colab and Linux based systems (Ubuntu,
 
 (1) Open new notebook and Setup enviroment. Insert these lines:
 
+```shell
 ! git config --global user.email "#email" 
 ! git config --global user.name "#username"
+```
 
 (2) Clone repo using this line:
+
+```
 ! git clone https://github.com/oudalab/databite2020.git
+```
 
 Please note, in ipython notebooks the "!" must stay at the beginning of all installation commands.
 
 To install this using a Linux based terminal:
 (1) Setup enviroment
+
+```shell
 git config --global user.email "#email"
 git config --global user.name "#username"
+```
+
+Replace `#email` with the email you use for GitHub and replace `#username` with your GitHub username. 
 
 (2) Clone repo
+
+```
 git clone https://github.com/oudalab/databitesp2020.git
+```
 
 Please note, there are not "!" needed to install in terminal.
