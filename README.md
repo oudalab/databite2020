@@ -35,7 +35,7 @@ Replace `#email` with the email you use for GitHub and replace `#username` with 
 (2) Clone repo
 
 ```
-git clone https://github.com/oudalab/databitesp2020.git
+git clone https://github.com/oudalab/databite2020.git
 ```
 
 Please note, there are not "!" needed to install in terminal.
